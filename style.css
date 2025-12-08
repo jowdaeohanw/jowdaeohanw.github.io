@@ -52,7 +52,9 @@ span {
     font-size: 30pt;
 }
 
+
 img {
+    margin-left: 35%;
     width: 300px;
     border: #87867C 3px dotted;
 }
